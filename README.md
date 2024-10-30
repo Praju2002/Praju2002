@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello! I'm Praju
 
-<!--
-**Praju2002/Praju2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
+I'm a MERN stack developer with a passion for creating dynamic and interactive web applications. I love tackling challenges and continuously learning new technologies to enhance my skill set.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Others:** Git, GitHub, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praju2002&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praju2002&layout=compact&theme=radical)
+
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/))
+
+
+### 🔗 Let's Connect!
+Feel free to connect with me through any of the platforms above. I'm always open to collaborations and discussions!
+
