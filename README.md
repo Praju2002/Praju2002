@@ -15,7 +15,7 @@ I'm a MERN stack developer with a passion for creating dynamic and interactive w
 
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/))
+- [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/)
 
 
 ### 🔗 Let's Connect!
