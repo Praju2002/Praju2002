@@ -33,11 +33,27 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 
 ---
 
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praju2002&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
+</p>
+
+---
+
 ### 🌟 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praju2002&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praju2002&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+</p>
+
+---
+
+### 🔥 **GitHub Streak**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praju2002&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -48,4 +64,8 @@ I’m always excited to meet new people and collaborate on interesting projects!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/)
 
+Let’s make an impact together! 💖✨
+
 ---
+
+✨ *“Creating possibilities, one line of code at a time!”* ✨
