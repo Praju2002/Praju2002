@@ -40,6 +40,10 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 </p>
 
 ---
+### 🌟 **Open Source Contributions**
+[![An image of @praju2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praju2002)](https://holopin.io/@praju2002)
+
+---
 
 ### 🌟 **GitHub Stats**
 
