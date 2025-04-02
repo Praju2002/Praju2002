@@ -72,4 +72,3 @@ Let’s make an impact together! 💖✨
 
 ---
 
-✨ *“Creating possibilities, one line of code at a time!”* ✨
